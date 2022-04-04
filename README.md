@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AGMASO
-- 👀 I’m interested in Angular, Python and Bussines Inteligence + Big Data
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate and work on Angular Projects.
+- 👀 I’m a developer specialized in FullStack using MEAN approach. 
+- 🌱 I’m currently learning to be a Blockchain Developer.
+- 💞️ I’m looking to collaborate and work on MEAN Stack Projects or Web 3.0 projects based on ETH Blockchain.
 - 📫 How to reach me. Send an Email to agoseller@gmail.com
 
 <!---
