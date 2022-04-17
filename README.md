@@ -2,7 +2,7 @@
 - 👀 I’m a developer specialized in FullStack using MEAN approach. 
 - 🌱 I’m currently learning to be a Blockchain Developer.
 - 💞️ I’m looking to collaborate and work on MEAN Stack Projects or Web 3.0 projects based on ETH Blockchain.
-- 📫 How to reach me. Send an Email to agoseller@gmail.com
+- 📫 How to reach me. Send an Email to agmguindo@gmail.com
 
 <!---
 AGMASO/AGMASO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
