@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AGMASO
-- 👀 I’m a developer specialized in FullStack using MEAN approach. 
-- 🌱 I’m currently learning to be a Blockchain Developer.
-- 💞️ I’m looking to collaborate and work on MEAN Stack Projects or Web 3.0 projects based on ETH Blockchain.
+- 👀 I’m a developer specialized in FullStack Blockchain using EVM to develop the Backend and SmartContracts
+- 🌱 I’m currently looking for to work as a Blockchain Developer.
+- 💞️ Please feel free to reach me for collaborate and work on Web 3.0 projects.
 - 📫 How to reach me. Send an Email to agmguindo@gmail.com
 
 <!---
