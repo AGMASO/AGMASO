@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AGMASO
-- 👀 I’m a developer specialized in FullStack Blockchain(Blockend Developer) using Foundry to develop and test SmartContracts.
-- 🌱 I’m currently looking for to work as a Blockchain Developer.
-- 💞️ Please feel free to reach me for collaborate and work on Web 3.0 projects.
-- 📫 How to reach me. Send me a message to my Linkedin 
+👋 Hi, I’m Alejandro Guindo (@AGMASO)
+I'm a Solidity Engineer & Security Researcher with extensive experience in developing secure Full-Stack Blockchain DApps. I specialize in smart contract development and auditing, leveraging Foundry for robust testing and deployment.
 
-<!---
-AGMASO/AGMASO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I Do:
+* Develop and audit smart contracts with a focus on security and efficiency.
+* Build Full-Stack Web3 applications using modern blockchain frameworks.
+* Research and implement best security practices in Ethereum and EVM-compatible networks.
+
+🌱 Open to Opportunities
+I’m currently looking for new Blockchain Development roles and collaborations in DeFi, security auditing, and smart contract development.
+
+💡 Let's Connect!
+I'm always open to discussing Web3 projects, blockchain security, and innovative DApp ideas. Feel free to reach out via LinkedIn.
